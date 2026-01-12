@@ -77,7 +77,7 @@ export const ImageItem = (props: { obj: StoreObj; index: number }) => {
             />
           </Show>
           <ImageWithError
-            h="150px"
+            h="250px"
             w="$full"
             objectFit="cover"
             rounded="$lg"
